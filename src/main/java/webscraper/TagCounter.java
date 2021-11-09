@@ -29,6 +29,7 @@ public class TagCounter {
     try {
       doc = Jsoup.connect(url).get();
       // get page title
+
       this.title = doc.title();
       Elements h1s = doc.select("h1");
       this.h1Count = h1s.size();
