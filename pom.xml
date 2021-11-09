@@ -25,9 +25,19 @@
     
     <dependencies>
         <dependency>
+            <groupId>dat.sem3</groupId>
+            <artifactId>allinone</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+        <dependency>
             <groupId>org.mindrot</groupId>
             <artifactId>jbcrypt</artifactId>
             <version>0.4</version>
+        </dependency>
+        <dependency>
+            <groupId>io.shick.jsoup</groupId>
+            <artifactId>jsoup-configuration</artifactId>
+            <version>1.0.3</version>
         </dependency>
 
         <dependency>
