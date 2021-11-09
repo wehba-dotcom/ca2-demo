@@ -34,11 +34,7 @@
             <artifactId>jbcrypt</artifactId>
             <version>0.4</version>
         </dependency>
-        <dependency>
-            <groupId>io.shick.jsoup</groupId>
-            <artifactId>jsoup-configuration</artifactId>
-            <version>1.0.3</version>
-        </dependency>
+
 
         <dependency>
             <groupId>org.eclipse.persistence</groupId>
@@ -146,12 +142,7 @@
             <version>1.0.0</version>
             <scope>compile</scope>
         </dependency>
-        <dependency>
-            <groupId>io.shick.jsoup</groupId>
-            <artifactId>jsoup-configuration</artifactId>
-            <version>1.0.3</version>
-            <scope>compile</scope>
-        </dependency>
+
         <dependency>
             <groupId>us.codecraft</groupId>
             <artifactId>xsoup</artifactId>
