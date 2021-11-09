@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dat.sem3</groupId>
-    <artifactId>devops-starter</artifactId>
+    <artifactId>allinone</artifactId>
     <version>1.0.1</version>
     <packaging>war</packaging>
 
@@ -110,11 +110,7 @@
             <version>9.0.1</version>
         </dependency>
         
-        <dependency>
-            <groupId>org.mindrot</groupId>
-            <artifactId>jbcrypt</artifactId>
-            <version>0.4</version>
-        </dependency>
+
 
         <!-- Used for setting database name in pom.xml -->
         <dependency>
